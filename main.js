@@ -1,6 +1,6 @@
 var request = require("request")
 var rl = require("readline-sync")
-var DiscordH = require('discord.js')
+var DiscordH = require("discord.js")
 var Discord = require("discord.js-selfbot")
 var client = new Discord.Client()
 
